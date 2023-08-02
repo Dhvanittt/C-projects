@@ -1,5 +1,5 @@
 # C-projects
-Steps to play the game :
+Overview of the game :
 
 >> run the code
 >> the system will generate a random number and you have to guess it right!
