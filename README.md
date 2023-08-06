@@ -1,4 +1,4 @@
-# C-projects
+# Game 1
 Overview of the game :
 
 >> run the code
